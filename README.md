@@ -12,6 +12,12 @@ This is a list:
 
 _underlined?_
 
-*BRRAVE NEW WORLD*
+**BRRAVE NEW WORLD**
 
 ~strikethrough~
+
+```
+some lines of code
+more lines
+wow such programming
+```
