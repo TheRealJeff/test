@@ -3,3 +3,5 @@
 print ("hello there!")
 
 print ("General Kenobi!")
+
+print ("Ahoy!")
